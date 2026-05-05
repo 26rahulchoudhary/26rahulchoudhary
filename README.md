@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="name_banner.png" width="800" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rahul Choudhary</h1>
 <h3 align="center">🚀 AI/ML Developer | LLMs • RAG • AI Agents</h3>
 
@@ -24,42 +28,26 @@
 
 ---
 
-## 🚀 Tech Stack
+### 🛠️ Tech Stack & Skills
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+| **Programming Languages** | **Frameworks & Libraries** |
+| :--- | :--- |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,c" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,fastapi" /></a> |
 
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+| **AI / ML & Data** | **Databases & Vector Search** |
+| :--- | :--- |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn" /></a> <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge" /> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql" /></a> <img src="https://img.shields.io/badge/pgvector-000000?style=for-the-badge" /> |
 
-### 🧠 AI Technologies
-<p>
-  <img src="https://img.shields.io/badge/RAG-ff6f61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
-</p>
+| **Generative AI & RAG** | **Tools & Systems** |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/RAG-ff6f61?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-4CAF50?style=for-the-badge" /> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,linux" /></a> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" /> |
 
-### 🗄️ Databases & Tools
+---
+
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/pgvector-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -81,17 +69,6 @@
 - Designed scalable architecture  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=26rahulchoudhary&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=26rahulchoudhary&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26rahulchoudhary&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
 
 ## ⚡ Fun Fact
 I build AI systems that **actually solve problems—not just demos.**

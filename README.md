@@ -92,7 +92,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26rahulchoudhary&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
----
 
 ## ⚡ Fun Fact
 I build AI systems that **actually solve problems—not just demos.**

@@ -85,21 +85,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulchoudhary2610&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchoudhary2610&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=26rahulchoudhary&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=26rahulchoudhary&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchoudhary2610&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26rahulchoudhary&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
----
-
-## 📫 Connect With Me
-
-- 📧 rahulchoudhary5266@gmail.com  
-- 💼 https://www.linkedin.com/in/rahulchoudhary2610  
-- 💻 https://github.com  
-
 ---
 
 ## ⚡ Fun Fact
